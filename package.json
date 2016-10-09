@@ -1,0 +1,16 @@
+{
+    "name": "@danielelidio/common-exceptions",
+    "version": "0.0.2",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha ./tests/**/*.test.js"
+    },
+    "author": "Daniel Elídio Mendes Júnior",
+    "license": "ISC",
+    "devDependencies": {
+        "mocha": "^3.0.2",
+        "chai": "^3.5.0",
+        "chai-spies": "^0.7.1"
+    }
+}
