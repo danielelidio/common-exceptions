@@ -3,6 +3,10 @@
     "version": "0.0.2",
     "description": "",
     "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/danielelidio/common-exceptions.git"
+    },
     "scripts": {
         "test": "mocha ./tests/**/*.test.js"
     },
