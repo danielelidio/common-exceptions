@@ -2,7 +2,7 @@ require('./test-helper');
 
 require('../index');
 
-describe('Global Exceptions', function() {
+describe('Global Exceptions.', function() {
 	it('Exception should be loaded for global use.', function() {
 		expect(Exception).to.not.be.an('undefined');
 	});
