@@ -18,4 +18,8 @@ describe('Global Exceptions.', function() {
 	it('EmptyFieldException should be loaded for global use.', function() {
 		expect(EmptyFieldException).to.not.be.an('undefined');
 	});
+
+	it('NotImplementedException should be loaded for global use.', function() {
+		expect(NotImplementedException).to.not.be.an('undefined');
+	});
 });
